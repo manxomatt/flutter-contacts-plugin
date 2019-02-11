@@ -12,7 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  permission_handler: ^2.1.2
+  permission_handler:
+    git:
+      url: https://github.com/BaseflowIT/flutter-permission-handler.git
 
 dev_dependencies:
   flutter_test:
